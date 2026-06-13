@@ -1,0 +1,9 @@
+{
+  "site_name": "好看日韩剧",
+  "movie_count": 2000,
+  "detail_pages": 2000,
+  "category_pages": 12,
+  "cover_rule": "HTML references top-level 1.jpg through 150.jpg cyclically.",
+  "video_sources": 20,
+  "generated_at": "2026-06-03"
+}
